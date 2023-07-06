@@ -1,0 +1,5 @@
+server:
+  port: ${SPRING_PORT}
+spring:
+  application:
+    name: cambio-service
